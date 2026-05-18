@@ -1,0 +1,8 @@
+streamlit
+torch
+transformers
+pandas
+accelerate
+sentencepiece
+protobuf
+safetensors
