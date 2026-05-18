@@ -1,4 +1,3 @@
-# AI-Text-Watermarking
 # 🕵️‍♀️ Watermark AI Studio
 
 AI Text Watermarking system for Large Language Models (LLMs) that embeds invisible binary watermarks into generated text for authenticity verification, ownership protection, and tamper detection.
